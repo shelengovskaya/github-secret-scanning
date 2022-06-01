@@ -7,8 +7,3 @@ iam = 't1.9euelZqel8_NjpbLzZOTjZiazI6cmO3rnpWamZ6Lj5iKnpfHkY-ekI_Hz5jl9Pd6CyNr-e
 api = 'AQVN0Amygw4mDVH1pYyUeZQw4fyA-j3ULiVSoYEQ'
 
 res = 'AQVN1kGtw5eskpQzl8UotFRKifubsJdb81RrUhOB'
-
-
-
-
-
